@@ -5,7 +5,7 @@
 ## 👦 Quem sou eu?
 
 Olá! Me chamo **Alex Sandro** e tenho **14 anos**.  
-Sou uma pessoa curioso, apaixonado por tecnologia e por tudo que envolve **programação**.  
+Sou um jovem curioso, apaixonado por tecnologia e por tudo que envolve **programação**.  
 Atualmente, estou aprendendo a programar com as linguagens **PHP** e **JavaScript**, e cada linha de código que escrevo é um novo passo na minha jornada de aprendizado.  
 
 Comecei a estudar programação porque sempre fui fascinado por como os sites, os aplicativos e os sistemas funcionam por trás das telas.  
@@ -43,9 +43,9 @@ Alguns projetos que venho criando:
 
 ## 📚 Meu jeito de aprender
 
-- Praticando muito
-- Errando e corrigindo
-- Assistindo tutoriais e lendo documentações
+- Praticando muito  
+- Errando e corrigindo  
+- Assistindo tutoriais e lendo documentações  
 - Observando e aprendendo com outros devs
 
 ---
@@ -59,17 +59,17 @@ Se quiser compartilhar algo comigo, vou adorar!
 
 ## 💬 Coisas que gosto
 
-- Organizar código
-- Criar animações com JavaScript
-- Aprender coisas novas
+- Organizar código  
+- Criar animações com JavaScript  
+- Aprender coisas novas  
 - Automatizar tarefas
 
 ---
 
 ## 🔮 Meus sonhos com programação
 
-- Me tornar um desenvolvedor full-stack
-- Trabalhar com open source
+- Me tornar um desenvolvedor full-stack  
+- Trabalhar com open source  
 - Criar soluções úteis para outras pessoas
 
 ---
@@ -83,7 +83,8 @@ Cada projeto que faço representa um aprendizado novo.
 
 ## 📂 Quer acompanhar minha jornada?
 
-👉 [github.com/AlexSandroSF25-2010](https://github.com/AlexSandroSF25-2010)
+- 🧠 **GitHub:** [github.com/AlexSandroSF25-2010](https://github.com/AlexSandroSF25-2010)  
+- 📸 **Instagram:** [@alex.sandrosf](https://www.instagram.com/alex.sandrosf/)
 
 ---
 
@@ -120,4 +121,3 @@ Cada projeto que faço representa um aprendizado novo.
 ---
 
 **Obrigado por visitar! 🙌**
-
