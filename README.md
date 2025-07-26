@@ -5,7 +5,7 @@
 ## 👦 Quem sou eu?
 
 Olá! Me chamo **Alex Sandro** e tenho **14 anos**.  
-Sou um jovem curioso, apaixonado por tecnologia e por tudo que envolve **programação**.  
+Sou uma pessoa curioso, apaixonado por tecnologia e por tudo que envolve **programação**.  
 Atualmente, estou aprendendo a programar com as linguagens **PHP** e **JavaScript**, e cada linha de código que escrevo é um novo passo na minha jornada de aprendizado.  
 
 Comecei a estudar programação porque sempre fui fascinado por como os sites, os aplicativos e os sistemas funcionam por trás das telas.  
