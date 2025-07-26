@@ -38,5 +38,13 @@
 ###
 
 <h2 align="left">Stats</h2>
+<div>
+![Y3KI's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSandroSF25-2010&show_icons=true&theme=tokyonight)
+
+
+
+
+  
+</div>
 
 ###
