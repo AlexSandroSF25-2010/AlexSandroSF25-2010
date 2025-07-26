@@ -1,50 +1,33 @@
-<h1 align="center">Hey 👋What's Up?<br>Hey 👋E aí?</h1>
+<h1 align="center">Olá! 👋 Me chamo Alex</h1>
 
-###
-
-<h2 align="left">Linguagens</h2>
-
-###
+## 🔧 Linguagens
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://discord.com/users/747883856685957191" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+## 🧠 Sobre mim
 
-###
+- 👨‍💻 Me chamo **Alex**, sou programador com **16 anos**
+- 🚀 Atualmente aprendendo **JavaScript**
 
-<h3 align="left">Sobre mim</h3>
+---
 
-###
+## 📊 Stats do GitHub
 
-<h6 align="left">•Me chamo Alex sou programador com 16<br>•Aprendendo Java.Script</h6>
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSandroSF25-2010&show_icons=true&theme=tokyonight)
 
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSandroSF25-2010&layout=compact&theme=tokyonight)
 
-<h2 align="left">Stats</h2>
-<div>
-![Y3KI's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSandroSF25-2010&show_icons=true&theme=tokyonight)
+---
 
+## 🌐 Contato
 
-
-
-  
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
+[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
