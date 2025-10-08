@@ -59,8 +59,7 @@ Se quiser compartilhar algo comigo, vou adorar!
 
 ## 💬 Coisas que gosto
 
-- Organizar código  
-- Criar animações com JavaScript  
+- Organizar código    
 - Aprender coisas novas  
 - Automatizar tarefas
 
