@@ -18,9 +18,9 @@ Queria entender como as coisas são feitas, como os sistemas são construídos �
 Atualmente, meus estudos estão focados principalmente em:
 
 - **PHP**: Estou aprendendo como funciona o backend de sites e sistemas.  
-- **JavaScript**: Me aprofundando no JS para tornar páginas web mais interativas.  
+- **Python**: Me aprofundando no Python.  
 - **HTML e CSS**: Para construir páginas e entender a base da web.
-
+- **MySQL**: Criação de bancos de dados
 ---
 
 ## 🚀 Por que programar?
